@@ -1,0 +1,192 @@
+Year,selection1_Country,selection1_Games_played,selection1_Yellow_cards,selection1_Red_cards,selection1_Points
+2018,Croatia,7,15,0,15
+2018,France,7,12,0,12
+2018,Switzerland,4,9,1,12
+2018,Colombia,4,9,1,12
+2018,Panama,3,11,0,11
+2018,Belgium,7,11,0,11
+2018,Argentina,4,11,0,11
+2018,South Korea,3,10,0,10
+2018,Russia,5,6,1,9
+2018,Mexico,4,9,0,9
+2018,Morocco,3,8,0,8
+2018,Sweden,5,8,0,8
+2018,England,7,8,0,8
+2018,Australia,3,7,0,7
+2018,Portugal,4,7,0,7
+2018,Iran,3,7,0,7
+2018,Brazil,5,7,0,7
+2018,Senegal,3,6,0,6
+2018,Denmark,4,6,0,6
+2018,Costa Rica,3,6,0,6
+2018,Egypt,3,5,0,5
+2018,Japan,4,5,0,5
+2018,Germany,3,2,1,5
+2018,Peru,3,5,0,5
+2018,Tunisia,3,4,0,4
+2018,Nigeria,3,4,0,4
+2018,Poland,3,3,0,3
+2018,Iceland,3,3,0,3
+2018,Uruguay,5,3,0,3
+2018,Spain,4,2,0,2
+2018,Saudi Arabia,3,1,0,1
+2022,Argentina,7,17,0,17
+2022,Saudi Arabia,3,14,0,14
+2022,Netherlands,5,11,1,14
+2022,Serbia,3,12,0,12
+2022,Morocco,7,8,1,11
+2022,Cameroon,3,7,1,10
+2022,Switzerland,4,9,0,9
+2022,Ghana,3,8,0,8
+2022,Wales,3,5,1,8
+2022,France,7,8,0,8
+2022,Croatia,7,8,0,8
+2022,Uruguay,3,8,0,8
+2022,Canada,3,8,0,8
+2022,Qatar,3,7,0,7
+2022,Senegal,4,7,0,7
+2022,Australia,4,7,0,7
+2022,Poland,4,7,0,7
+2022,Iran,3,7,0,7
+2022,Mexico,3,7,0,7
+2022,Japan,4,6,0,6
+2022,Portugal,5,6,0,6
+2022,South Korea,4,6,0,6
+2022,Costa Rica,3,6,0,6
+2022,Brazil,5,6,0,6
+2022,United States,4,5,0,5
+2022,Tunisia,3,5,0,5
+2022,Denmark,3,5,0,5
+2022,Belgium,3,5,0,5
+2022,Germany,3,3,0,3
+2022,Ecuador,3,3,0,3
+2022,Spain,4,2,0,2
+2022,England,5,1,0,1
+2014,Costa Rica,5,11,1,14
+2014,Brazil,7,14,0,14
+2014,Netherlands,7,11,0,11
+2014,Uruguay,4,8,1,11
+2014,Belgium,5,7,1,10
+2014,Greece,4,7,1,10
+2014,Honduras,3,5,1,8
+2014,Ecuador,3,5,1,8
+2014,Mexico,4,8,0,8
+2014,Argentina,7,8,0,8
+2014,Ivory Coast,3,7,0,7
+2014,Cameroon,3,4,1,7
+2014,Croatia,3,4,1,7
+2014,Chile,4,7,0,7
+2014,Ghana,3,6,0,6
+2014,Australia,3,6,0,6
+2014,Algeria,4,6,0,6
+2014,Germany,7,6,0,6
+2014,South Korea,3,6,0,6
+2014,Italy,3,3,1,6
+2014,Portugal,3,2,1,5
+2014,France,5,5,0,5
+2014,Colombia,5,5,0,5
+2014,United States,4,4,0,4
+2014,Japan,3,4,0,4
+2014,Iran,3,4,0,4
+2014,Russia,3,4,0,4
+2014,England,3,4,0,4
+2014,Nigeria,4,3,0,3
+2014,Switzerland,4,3,0,3
+2014,Bosnia and Herzegovina,3,3,0,3
+2014,Spain,3,3,0,3
+2010,Netherlands,7,22,1,25
+2010,Chile,4,13,1,16
+2010,Uruguay,7,9,2,15
+2010,Germany,7,11,1,14
+2010,Australia,3,7,2,13
+2010,Brazil,5,7,2,13
+2010,Serbia,3,8,1,11
+2010,Ghana,5,11,0,11
+2010,Portugal,4,8,1,11
+2010,Switzerland,3,8,1,11
+2010,Slovakia,4,11,0,11
+2010,Algeria,3,4,2,10
+2010,United States,4,9,0,9
+2010,France,3,6,1,9
+2010,Slovenia,3,9,0,9
+2010,Paraguay,5,9,0,9
+2010,Mexico,4,9,0,9
+2010,Nigeria,3,5,1,8
+2010,Spain,7,8,0,8
+2010,Japan,4,7,0,7
+2010,South Africa,3,4,1,7
+2010,Honduras,3,7,0,7
+2010,Argentina,5,7,0,7
+2010,New Zealand,3,6,0,6
+2010,Denmark,3,6,0,6
+2010,South Korea,4,6,0,6
+2010,England,4,6,0,6
+2010,Ivory Coast,3,5,0,5
+2010,Cameroon,3,5,0,5
+2010,Greece,3,5,0,5
+2010,Italy,3,5,0,5
+2010,North Korea,3,2,0,2
+2006,Portugal,7,22,2,28
+2006,Netherlands,4,14,2,20
+2006,Ghana,4,16,1,19
+2006,France,7,16,1,19
+2006,Italy,7,11,2,17
+2006,Tunisia,3,13,1,16
+2006,Croatia,3,9,2,15
+2006,Ukraine,5,12,1,15
+2006,Mexico,4,11,1,14
+2006,Angola,3,10,1,13
+2006,Australia,4,10,1,13
+2006,Togo,3,9,1,12
+2006,Trinidad and Tobago,3,9,1,12
+2006,Germany,7,12,0,12
+2006,Switzerland,4,12,0,12
+2006,Poland,3,9,1,12
+2006,Sweden,4,9,1,12
+2006,Czech Republic,3,6,2,12
+2006,England,5,9,1,12
+2006,Argentina,5,12,0,12
+2006,Ivory Coast,3,8,1,11
+2006,Brazil,5,11,0,11
+2006,United States,3,4,2,10
+2006,Ecuador,4,9,0,9
+2006,Iran,3,8,0,8
+2006,South Korea,3,8,0,8
+2006,Costa Rica,3,8,0,8
+2006,Japan,3,7,0,7
+2006,Paraguay,3,7,0,7
+2006,Spain,4,6,0,6
+2006,Saudi Arabia,3,5,0,5
+2002,Turkey,7,18,2,24
+2002,Germany,7,17,1,20
+2002,Senegal,5,15,1,18
+2002,Paraguay,4,10,2,16
+2002,United States,5,14,0,14
+2002,Italy,4,11,1,14
+2002,Portugal,3,7,2,13
+2002,Slovenia,3,10,1,13
+2002,South Korea,7,13,0,13
+2002,Spain,5,7,2,13
+2002,Cameroon,3,8,1,11
+2002,Mexico,4,8,1,11
+2002,South Africa,3,10,0,10
+2002,Uruguay,3,10,0,10
+2002,Brazil,7,7,1,10
+2002,Denmark,4,9,0,9
+2002,Poland,3,9,0,9
+2002,Russia,3,9,0,9
+2002,Ecuador,3,9,0,9
+2002,Argentina,3,6,1,9
+2002,Tunisia,3,8,0,8
+2002,China,3,5,1,8
+2002,Belgium,4,7,0,7
+2002,Japan,4,6,0,6
+2002,France,3,3,1,6
+2002,Croatia,3,3,1,6
+2002,Sweden,4,6,0,6
+2002,England,5,6,0,6
+2002,Costa Rica,3,6,0,6
+2002,Republic of Ireland,4,4,0,4
+2002,Saudi Arabia,3,3,0,3
+2002,Nigeria,3,2,0,2
+2002,,,32,,
